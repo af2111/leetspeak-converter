@@ -5,7 +5,7 @@ Dependencies: None\
 If you modify the settings file, use this syntax:\
 "original character": ["all", "leetspeak", "translations"]
 
-Known flaws:\
+Known flaws:
 - Settings file isn't complete
 - Decoding isn't 100% accurate
 
